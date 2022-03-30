@@ -1,0 +1,5 @@
+pip install socket
+pip install os
+pip install threading
+pip install time 
+pip install IPy
