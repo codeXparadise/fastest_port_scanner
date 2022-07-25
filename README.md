@@ -1,6 +1,6 @@
-# fastest_port_scanner made by Mr.Nobody..!
+# fastest_port_scanner made by (Vishal Prajapati) Mr.Nobody..!
 
-HELLO HACKERS!
+HELLO HACKERS!!
 Wellcome
 
 
